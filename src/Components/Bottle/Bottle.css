@@ -1,0 +1,12 @@
+.bottle{
+    border: 2px solid slateblue;
+    border-radius: 15px;
+    padding: 10px;
+}
+.bottle img{
+    padding: 30px;
+    height: 300px;
+}
+.bottle h3{
+    color: aqua;
+}
